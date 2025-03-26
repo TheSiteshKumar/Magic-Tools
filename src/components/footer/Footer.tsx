@@ -164,7 +164,7 @@ const Footer = () => {
               <span>© {currentYear} Magic Tool.</span>
               <span className="hidden sm:inline">·</span>
               <span className="flex items-center gap-1">
-                Made with <Heart className="w-4 h-4 text-red-500" /> by developers for developers
+                Made with <Heart className="w-4 h-4 text-red-500" /> by  Sitesh Kumar
               </span>
             </div>
             <motion.a
